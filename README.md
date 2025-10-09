@@ -9,14 +9,15 @@ I love programming and exploring how things work behind the scenes.
 
 - 💻 I write simple Python scripts and small projects.  
 - 🎯 Currently learning **C++** to understand how programs work at a deeper level.  
-- 🚀 Interested in **drone technology** and future engineering projects.  
+- 🚀 Drone Engineer | Python & C++ Learner | Tech Enthusiast
+
 
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaa062066-dotcom&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
 </p>
 
 ---
