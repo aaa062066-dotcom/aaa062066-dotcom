@@ -25,8 +25,7 @@ I love programming and exploring how things work behind the scenes.
 ## 📫 Contact Me
 
 - ✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🎵 [![TikTok Icon](https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg)](https://www.tiktok.com/@a.u.o.t) [@a.u.o.t](https://www.tiktok.com/@a.u.o.t) 
-
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="16" height="16"> [@a.u.o.t](https://www.tiktok.com/@a.u.o.t)
 ---
 
 ⭐ _Thanks for visiting my profile!_ ⭐
